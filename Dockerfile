@@ -13,4 +13,4 @@ ENV WEBHOOK_URL=https://your-app.onrender.com
 
 EXPOSE 5678
 
-CMD ["n8n"]
+CMD ["n8n", "start"]
